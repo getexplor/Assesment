@@ -1,0 +1,15 @@
+D:\MyProject\AssesmentConsoleApps\AssesmentConsoleApps\bin\Debug\net6.0\AssesmentConsoleApps.exe
+D:\MyProject\AssesmentConsoleApps\AssesmentConsoleApps\bin\Debug\net6.0\AssesmentConsoleApps.deps.json
+D:\MyProject\AssesmentConsoleApps\AssesmentConsoleApps\bin\Debug\net6.0\AssesmentConsoleApps.runtimeconfig.json
+D:\MyProject\AssesmentConsoleApps\AssesmentConsoleApps\bin\Debug\net6.0\AssesmentConsoleApps.dll
+D:\MyProject\AssesmentConsoleApps\AssesmentConsoleApps\bin\Debug\net6.0\AssesmentConsoleApps.pdb
+D:\MyProject\AssesmentConsoleApps\AssesmentConsoleApps\obj\Debug\net6.0\AssesmentConsoleApps.csproj.AssemblyReference.cache
+D:\MyProject\AssesmentConsoleApps\AssesmentConsoleApps\obj\Debug\net6.0\AssesmentConsoleApps.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\AssesmentConsoleApps\AssesmentConsoleApps\obj\Debug\net6.0\AssesmentConsoleApps.AssemblyInfoInputs.cache
+D:\MyProject\AssesmentConsoleApps\AssesmentConsoleApps\obj\Debug\net6.0\AssesmentConsoleApps.AssemblyInfo.cs
+D:\MyProject\AssesmentConsoleApps\AssesmentConsoleApps\obj\Debug\net6.0\AssesmentConsoleApps.csproj.CoreCompileInputs.cache
+D:\MyProject\AssesmentConsoleApps\AssesmentConsoleApps\obj\Debug\net6.0\AssesmentConsoleApps.dll
+D:\MyProject\AssesmentConsoleApps\AssesmentConsoleApps\obj\Debug\net6.0\refint\AssesmentConsoleApps.dll
+D:\MyProject\AssesmentConsoleApps\AssesmentConsoleApps\obj\Debug\net6.0\AssesmentConsoleApps.pdb
+D:\MyProject\AssesmentConsoleApps\AssesmentConsoleApps\obj\Debug\net6.0\AssesmentConsoleApps.genruntimeconfig.cache
+D:\MyProject\AssesmentConsoleApps\AssesmentConsoleApps\obj\Debug\net6.0\ref\AssesmentConsoleApps.dll
