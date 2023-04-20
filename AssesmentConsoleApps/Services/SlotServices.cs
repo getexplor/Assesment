@@ -25,7 +25,7 @@ namespace AssesmentConsoleApps.Services
                 return "Car is already";
             }
 
-            var icar = listCar.Find(x => x.Name == String.Empty);
+            var icar = listCar.Find(x => x.Name == String.Empty || x.Name == null);
 
             if (icar == null)
             {
